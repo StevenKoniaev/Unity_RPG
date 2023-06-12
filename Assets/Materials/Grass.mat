@@ -125,6 +125,7 @@ Material:
     - _SrcBlend: 1
     - _Surface: 0
     - _TessellationGrassDistance: 0.05
+    - _TrampleStrength: 0.2
     - _WindFrequency: 0.01
     - _WorkflowMode: 1
     - _ZWrite: 1
@@ -134,6 +135,7 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _TipColor: {r: 0.45296368, g: 0.8207547, b: 0.49452204, a: 1}
+    - _Trample: {r: 0, g: 0, b: 0, a: 0}
     - _WindVelocity: {r: 0.1, g: 0.1, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &8190351599649191205
